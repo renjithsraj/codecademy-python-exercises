@@ -2,6 +2,7 @@
 
 This repo include the python excerises from Codecademy, Codecademy is an online interactive platform that offers free coding classes in seven different programming languages including Python, PHP, jQuery, JavaScript, and Ruby, as well as markup languages HTML and CSS. As of January 2014, the site had over 24 million users who had completed over 100 million exercises.
 
+
 # Why Python
 
 There are many reasons:-
@@ -30,7 +31,12 @@ should-learn-Python
   - Unit 10 Advanced Topics in Python
   - Unit 11 Introduction to Classes
   - Unit 12 File Input and Output
+  
+# MY Progress in Codecademy Python course
 
+*I have successfully completed the course on 2013
+
+![codeademy](https://user-images.githubusercontent.com/8171465/31173722-2a5dcdb6-a8f8-11e7-9895-67af5ca1ba32.png)
 
 
 #### Thanks
